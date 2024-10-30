@@ -1,7 +1,7 @@
 # Download App
 Android:
 <br>
-[![Download di GitHub](https://img.shields.io/badge/Download%20di%20GitHub-FF0077?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namauser/repositori)
+[![Download di GitHub](https://dorve.com/wp-content/uploads/2023/09/image-7-1024x576.png)](https://github.com/namauser/repositori)
 <br>
 IOS: Belum Tersedia.
 <br>

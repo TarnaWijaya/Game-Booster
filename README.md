@@ -7,7 +7,8 @@ Windows: Belum Tersedia.
 <br>
 Lunux: Belum Tersedia.
 <p></p>
-# Game-Booster
+
+# Info Update
 <p style="margin-bottom: 10px;">
 Update info:
   <br>

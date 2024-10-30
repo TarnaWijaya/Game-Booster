@@ -1,7 +1,7 @@
 # Download App
 Android:
 <br>
-[![Download di Android](https://img.shields.io/badge/Download%20di%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/namauser/repositori)
+[![Download di Android](https://img.shields.io/badge/Download%20di%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TarnaWijaya/Game-Booster/releases/tag/Download)
 <br>
 IOS: Belum Tersedia.
 <br>

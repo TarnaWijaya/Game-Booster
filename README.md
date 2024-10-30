@@ -1,5 +1,7 @@
 # Download App
-Android: [![Download di GitHub](https://img.shields.io/badge/Download%20di%20GitHub-FF0077?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namauser/repositori)
+Android:
+<br>
+[![Download di GitHub](https://img.shields.io/badge/Download%20di%20GitHub-FF0077?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namauser/repositori)
 <br>
 IOS: Belum Tersedia.
 <br>
